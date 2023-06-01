@@ -6,8 +6,10 @@ categories: posts
 tags: [junk]
 ---
 # Our Innovation Plans
-## Overarching Theme: Using engaging examples and learning methods to allow students to apply their conceptual understand to real-world scenarios.
-## Purpose: To make learning more efficient and easier to absorb for students, make parents feel comfortable with their children's stress managements, and reducing potential bias among staff in the education sector.
+## Overarching Theme:
+Using engaging examples and learning methods to allow students to apply their conceptual understand to real-world scenarios.
+## Purpose:
+To make learning more efficient and easier to absorb for students, make parents feel comfortable with their children's stress managements, and reducing potential bias among staff in the education sector.
 
 How about a yummy crepe?
 
