@@ -11,13 +11,28 @@ Using engaging examples and learning methods to allow students to apply their co
 ## Purpose:
 To make learning more efficient and easier to absorb for students, make parents feel comfortable with their children's stress managements, and reducing potential bias among staff in the education sector.
 
-How about a yummy crepe?
+## Innovation 1: Augmented Reality
+Info by Taneesha
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+## Innovation 2: E.D.I.S
+Info by Owen
 
-It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+## Innovation 3: WOIS Career Information System
+Info by Henry
+
+
+## Innovation 4: Biological Animated Studios
+Info by Santoshi
+
+
+## Innovation 5: DCL (Digital Content Library)
+Info by Gavin
+
+
+## Patrick's Innovation Name
+Info by Patrick
+
 
 
 | Number | Next number | Previous number |
