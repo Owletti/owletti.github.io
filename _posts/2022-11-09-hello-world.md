@@ -11,6 +11,9 @@ Using engaging examples and learning methods to allow students to apply their co
 ## Purpose:
 To make learning more efficient and easier to absorb for students, make parents feel comfortable with their children's stress managements, and reducing potential bias among staff in the education sector.
 
+
+![Crepe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ansys.com%2Fblog%2Fwhat-is-business-innovation-how-simulation-fosters-it&psig=AOvVaw1k5fUGnGsHG9BkX30D3gm8&ust=1685740965227000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJihz82Ao_8CFQAAAAAdAAAAABAD)
+=======
 ## Innovation 1: Augmented Reality
 Info by Taneesha
 
