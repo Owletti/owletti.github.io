@@ -1,5 +1,5 @@
 # Owen
-## E.D.I.S
+## E.D.I.S 
 
 ## Function
 - Student information is collected
