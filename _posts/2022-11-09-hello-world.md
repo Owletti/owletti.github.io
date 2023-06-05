@@ -5,7 +5,7 @@ subtitle: Augmented Reality, E.D.I.S, WOIS Career Information System, Biological
 categories: posts
 tags: [junk]
 ---
-# Our Innovation Plans
+# Our Innovation Plans 
 ## Overarching Theme:
 Using engaging examples and learning methods to allow students to apply their conceptual understand to real-world scenarios.
 ## Purpose:
