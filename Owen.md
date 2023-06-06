@@ -17,4 +17,6 @@
 - Bad actor gains access
 - Could be used for personal gain
 - Could be used against students
+
+
 ![image](/assets/images/owen2.jpg)
