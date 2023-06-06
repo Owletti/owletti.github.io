@@ -1,4 +1,4 @@
-# Nina
+# Amelia
 ## E.D.I.S 
 
 ![image](/assets/images/owen1.jpg)
