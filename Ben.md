@@ -1,4 +1,4 @@
-# Taneesha
+# Ben
 
 Augmented reality allows people to apply their learning from school into real life situations, by allowing them to envision their learning in real life.
 
