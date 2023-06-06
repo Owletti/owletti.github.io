@@ -1,6 +1,7 @@
 # Owen
 ## E.D.I.S 
 
+![image](/assets/images/owen1.png)
 ## Function
 - Student information is collected
 - Data is analyzed to find gaps in learning and learning styles
@@ -16,3 +17,4 @@
 - Bad actor gains access
 - Could be used for personal gain
 - Could be used against students
+![image](/assets/images/owen2.png)
