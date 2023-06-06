@@ -1,6 +1,8 @@
 # Rosetta
 ## Biology Animated Studios / Simulator by M.I.T.
 
+![image](/assets/images/santoshi1.png)
+
 **Purpose**:
 The specific groups in the school community I believe would benefit from this innovation are high school students or middle school students who are involved in
 - interest-biology clubs
@@ -26,3 +28,6 @@ The specific groups in the school community I believe would benefit from this in
 **Concerns**
 - The immersion and realism of the simulation experience can be diminished by menu-based activities when interacting from a computer screen. 
 - A menu-based system may urge the learner to execute an activity or communication they may not have otherwise considered, even though effective cueing is a vital facilitation method.
+
+
+![image](/assets/images/santoshi2.png)
