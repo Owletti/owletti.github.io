@@ -2,6 +2,10 @@
 ## Evolv Technologies
 ----
 ![image](/assets/images/patrick1.jpeg)
+
+----
+
+
 ## Function
 - Detect weapons on students accurately
 - Ignore personal items (pens, watches, artifical joints)
@@ -23,5 +27,7 @@
 - 70k/yr operating price could cause budgeting issues, leading to cutting educational programs
 - Could cause anxiety for some students
 
+
 ----
+
 ![image](/assets/images/patrick2.jpg)
