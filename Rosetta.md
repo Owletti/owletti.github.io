@@ -29,5 +29,8 @@ The specific groups in the school community I believe would benefit from this in
 - The immersion and realism of the simulation experience can be diminished by menu-based activities when interacting from a computer screen. 
 - A menu-based system may urge the learner to execute an activity or communication they may not have otherwise considered, even though effective cueing is a vital facilitation method.
 
+[Next Page](Pedro.md)
+
+----
 
 ![image](/assets/images/santoshi2.png)

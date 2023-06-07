@@ -27,7 +27,7 @@
 - 70k/yr operating price could cause budgeting issues, leading to cutting educational programs
 - Could cause anxiety for some students
 
-
+[Next Page](Rosetta.md)
 ----
 
 ![image](/assets/images/patrick2.jpg)

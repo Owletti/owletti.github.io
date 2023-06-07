@@ -19,4 +19,8 @@ Augmented reality allows people to apply their learning from school into real li
     - Either them or their school can’t afford it. Since they can’t use it, others are more likely to get an unfair advantage ahead of them
 - One way to lessen the digital divide with AR is offering use of AR in libraries, kind of like how people can use computers and printers in libraries. That way everyone has access to AR. 
 
+[Next Page](Joshua.md)
+
+----
+
 ![image](/assets/images/taneesha2.png)
