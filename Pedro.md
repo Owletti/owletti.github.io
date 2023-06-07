@@ -1,5 +1,6 @@
 # Pedro
 
+![image](/assets/images/henry1.jpg)
 ## Purpose and Benefits:
 **Purpose**:
 - The program focuses on the students' advancement in learning through speeding up the picking process for careers.
@@ -39,3 +40,6 @@
     - Fake websites can be used to save important information about the student.
 
 [Next Page](Nina.md)
+
+![image](/assets/images/henry2.png)
+![image](/assets/images/henry3.png)
