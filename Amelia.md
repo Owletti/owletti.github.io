@@ -19,6 +19,6 @@
 - Could be used against students
 
 [Next Page](Ben.md)
-
 ----
+
 ![image](/assets/images/owen2.jpg)

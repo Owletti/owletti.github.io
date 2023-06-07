@@ -30,7 +30,6 @@ The specific groups in the school community I believe would benefit from this in
 - A menu-based system may urge the learner to execute an activity or communication they may not have otherwise considered, even though effective cueing is a vital facilitation method.
 
 [Next Page](Pedro.md)
-
 ----
 
 ![image](/assets/images/santoshi2.png)
