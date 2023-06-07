@@ -1,6 +1,9 @@
 # Nina
 ## Digital Content Libraries
 
+![image](/assets/images/gavyn1.png)
+
+
 **Purpose and Benefits**
 - This innovation exists to remove the need for physical libraries, this could help in societies where libraries are not present.
 - Cheaper knowledge

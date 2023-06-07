@@ -1,7 +1,8 @@
 # Pedro
+## Purpose and Benefits:
 
 ![image](/assets/images/henry1.jpg)
-## Purpose and Benefits:
+
 **Purpose**:
 - The program focuses on the students' advancement in learning through speeding up the picking process for careers.
 - It collects information about the student’s interests to find and help the student gain knowledge about that career and how to follow it.
